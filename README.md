@@ -45,7 +45,7 @@ Clone the Repository
 bash
 Copy
 Edit
-git clone https://github.com/yourusername/rset-notes.git
+git clone https://github.com/mariamangatt/mini-project.git
 Install Dependencies
 
 bash
