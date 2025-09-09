@@ -5,7 +5,7 @@ It promotes collaboration while maintaining content quality through teacher appr
 🎯 Key Features
 Teacher Uploads
 
-Upload notes as text or Markdown (.md) files.
+Upload notes as text or Markdown (.md) files. 
 
 Collaborative Editing
 
