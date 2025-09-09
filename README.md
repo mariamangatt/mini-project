@@ -1,5 +1,5 @@
 📚 RSET Notes - Collaborative Academic Notes Platform
-RSET Notes is a web platform designed to simplify academic note sharing between teachers and students. 
+RSET Notes is a web platform designed to simplify academic note sharing between teachers and students.  
 It promotes collaboration while maintaining content quality through teacher approvals.
 
 🎯 Key Features
